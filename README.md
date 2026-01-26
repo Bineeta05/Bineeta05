@@ -17,7 +17,7 @@ I specialize in **Azure Databricks, PySpark, Azure Data Factory, ADLS Gen2, Delt
 **Languages & Processing:** Python, SQL, PySpark  
 **Cloud & Big Data:** Azure Databricks, Azure Data Factory, ADLS Gen2, Delta Lake  
 **Data Governance & Quality:** Microsoft Purview, metadata management, data quality frameworks  
-**Concepts:** Medallion Architecture, batch processing
+**Concepts:** Medallion Architecture, batch processing  
 **Version Control:** Git  
 
 ---
