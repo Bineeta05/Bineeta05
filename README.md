@@ -10,7 +10,7 @@ I specialize in **Azure Databricks, PySpark, Azure Data Factory, ADLS Gen2, Delt
 - Design and operate **batch ETL/ELT data pipelines**
 - Implement **data quality checks** and validation frameworks
 - Automate **metadata management, classification, and governance** using Microsoft Purview
-- Optimize pipeline performance and improve reliability in large-scale data environments
+- Optimize performance and improve reliability in large-scale data environments
 
 ---
 
