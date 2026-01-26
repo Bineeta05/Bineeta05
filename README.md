@@ -44,5 +44,5 @@ I specialize in **Azure Databricks, PySpark, Azure Data Factory, ADLS Gen2, Delt
 
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/bineeta-panja-8368b31b0/  
-- **Email:** mailto:bineetapanja05@gmail.com
+- **Email:** bineetapanja05@gmail.com
 
