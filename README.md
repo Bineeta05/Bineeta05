@@ -1,6 +1,6 @@
 ## Hi, I'm Bineeta 👋
 
-I'm a **Data Engineer** with 2+ years of experience building and maintaining **scalable batch ETL pipelines** on **Microsoft Azure**.  
+I'm a **Data Engineer** with experience of building and maintaining **scalable batch ETL pipelines** on **Microsoft Azure**.  
 I specialize in **Azure Databricks, PySpark, Azure Data Factory, ADLS Gen2, Delta Lake**, and **enterprise data governance using Microsoft Purview**.
 
 ---
