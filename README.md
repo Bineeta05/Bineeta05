@@ -39,9 +39,4 @@ I specialize in **Azure Databricks, PySpark, Azure Data Factory, ADLS Gen2, Delt
 - Databricks Certified Generative AI Engineer Associate  
 - AZ-900 | AI-900  
 
----
-
-## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/bineeta-panja-8368b31b0/  
-- **Email:** bineetapanja05@gmail.com
 
